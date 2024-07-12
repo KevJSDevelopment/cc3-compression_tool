@@ -1,0 +1,15 @@
+/Users/kevinsheehan/Projects/Coding Challenges/cc3-compression_tool/compression_tool/bin/Debug/net8.0/compression_tool
+/Users/kevinsheehan/Projects/Coding Challenges/cc3-compression_tool/compression_tool/bin/Debug/net8.0/compression_tool.deps.json
+/Users/kevinsheehan/Projects/Coding Challenges/cc3-compression_tool/compression_tool/bin/Debug/net8.0/compression_tool.runtimeconfig.json
+/Users/kevinsheehan/Projects/Coding Challenges/cc3-compression_tool/compression_tool/bin/Debug/net8.0/compression_tool.dll
+/Users/kevinsheehan/Projects/Coding Challenges/cc3-compression_tool/compression_tool/bin/Debug/net8.0/compression_tool.pdb
+/Users/kevinsheehan/Projects/Coding Challenges/cc3-compression_tool/compression_tool/obj/Debug/net8.0/compression_tool.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinsheehan/Projects/Coding Challenges/cc3-compression_tool/compression_tool/obj/Debug/net8.0/compression_tool.AssemblyInfoInputs.cache
+/Users/kevinsheehan/Projects/Coding Challenges/cc3-compression_tool/compression_tool/obj/Debug/net8.0/compression_tool.AssemblyInfo.cs
+/Users/kevinsheehan/Projects/Coding Challenges/cc3-compression_tool/compression_tool/obj/Debug/net8.0/compression_tool.csproj.CoreCompileInputs.cache
+/Users/kevinsheehan/Projects/Coding Challenges/cc3-compression_tool/compression_tool/obj/Debug/net8.0/compression_tool.sourcelink.json
+/Users/kevinsheehan/Projects/Coding Challenges/cc3-compression_tool/compression_tool/obj/Debug/net8.0/compression_tool.dll
+/Users/kevinsheehan/Projects/Coding Challenges/cc3-compression_tool/compression_tool/obj/Debug/net8.0/refint/compression_tool.dll
+/Users/kevinsheehan/Projects/Coding Challenges/cc3-compression_tool/compression_tool/obj/Debug/net8.0/compression_tool.pdb
+/Users/kevinsheehan/Projects/Coding Challenges/cc3-compression_tool/compression_tool/obj/Debug/net8.0/compression_tool.genruntimeconfig.cache
+/Users/kevinsheehan/Projects/Coding Challenges/cc3-compression_tool/compression_tool/obj/Debug/net8.0/ref/compression_tool.dll
