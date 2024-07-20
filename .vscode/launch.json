@@ -9,7 +9,7 @@
         "request": "launch",
         "preLaunchTask": "build",
         "program": "${workspaceFolder}/compression_tool/bin/Debug/net8.0/compression_tool.dll",
-        "args": ["135-0.txt"],
+        "args": ["encode","135-0.txt","135-0_compressed.txt"],
         "cwd": "${workspaceFolder}",
         "stopAtEntry": false,
         "console": "internalConsole"
@@ -19,12 +19,22 @@
         "request": "launch",
         "preLaunchTask": "build",
         "program": "${workspaceFolder}/compression_tool/bin/Debug/net8.0/compression_tool.dll",
-        "args": ["135-0.tx"],
+        "args": ["decode","135-0.txt","135-0_compressed.txt"],
         "cwd": "${workspaceFolder}",
         "stopAtEntry": false,
         "console": "internalConsole"
     },{
         "name": ".NET Core Launch (console) 3",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "build",
+        "program": "${workspaceFolder}/compression_tool/bin/Debug/net8.0/compression_tool.dll",
+        "args": ["135-0.tx"],
+        "cwd": "${workspaceFolder}",
+        "stopAtEntry": false,
+        "console": "internalConsole"
+    },{
+        "name": ".NET Core Launch (console) 4",
         "type": "coreclr",
         "request": "launch",
         "preLaunchTask": "build",
